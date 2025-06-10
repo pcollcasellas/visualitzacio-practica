@@ -1,4 +1,4 @@
-# Pràctica de l'assignatura Visualització de dades
+# Pràctica de l'assignatura Visualització de dades
 
 Codi utilitzat per obtenir i transformar les dades necessàries per la part pràctica de l'assignatura de Visualtizació de Dades del màster de Ciència de Dades de la UOC.
 
